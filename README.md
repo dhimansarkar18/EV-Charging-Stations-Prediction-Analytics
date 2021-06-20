@@ -2,8 +2,6 @@
 
 ![Top 20 electric vehicle charging station companies](https://roboticsandautomationnews.com/wp-content/uploads/2019/05/electric-vehicle-charging-station.jpg)
 
-# Opthalmic Surgical Data Analytics and Insights - Premier Eye Institue and Hospital in Bangladesh
-
 In our recent years, we have seen a sudden shift in the public perception and upcoming trends. One such example of a rising trend is the increase in the purchases of Hybrid and Electric Vehicles. This new product category has certainly drawn a lot of consumers and has created an increased demand for such automotive goods. Hence, our project is focused on studying the future of this growing category and forecast the necessary infrastructure such as EV Charging Stations.
 
 # Dataset
