@@ -35,7 +35,7 @@ II. Descriptive Analytics
 
     Building pairplot with colors
 
-III. Data visualization
+III. Data Visualization
 
     Analyzing the relationship between EV charging stations and median household income & population
     
